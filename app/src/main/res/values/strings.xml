@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestTaskCompose</string>
+    <string name="input_username">Введите имя пользователя</string>
+</resources>
